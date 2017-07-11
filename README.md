@@ -1,2 +1,6 @@
-# liberum-coloniam-deductam
-Liberum Coloniam Deductam - new version of FreeColonization
+# Liberum Coloniam Deductam
+Liberum Coloniam Deductam - this is new version of FreeColonization.
+
+## Postulates
+- free
+- multiplatform
